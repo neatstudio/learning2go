@@ -60,6 +60,8 @@
     * php的str_rot13，在string中没有，不过string.Map的例子就是rot13，可以借鉴
     * printf/sprintf等，可以参考 fmt中的相应 函数，函数名一致
         * Go 没有vsprintf。这是PHP特有的偷懒函数
+        
+---        
     
 * 参考：[neatstudio.com](http://neatstudio.com)    
 
